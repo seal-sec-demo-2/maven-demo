@@ -1,0 +1,36 @@
+# Maven build artifacts
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+logs/
+
+# Test output
+test-output/
+
+# Seal Security files
+.seal/
+
+# Environment files
+.env
+.env.local
+
+# Temporary files
+tmp/
+temp/
